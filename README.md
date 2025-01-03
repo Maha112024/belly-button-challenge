@@ -1,6 +1,6 @@
 # belly-button-challenge
 Module 14 Challenge
-##################################################################################################################
+######################################################################################################
 buildMetadata(sample): This function fetches metadata for the selected sample from the JSON file, filters it by the sample ID, and displays it in the metadata panel. It appends each key-value pair of metadata as a p tag for better readability.
 
 buildCharts(sample): This function fetches sample data (including OTU IDs, labels, and sample values), and creates two types of charts:
